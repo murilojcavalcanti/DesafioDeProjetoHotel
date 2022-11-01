@@ -1,0 +1,15 @@
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Desafios de projeto\Desafio-02\Meu projeto\bin\Debug\net6.0\Meu projeto.exe
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Desafios de projeto\Desafio-02\Meu projeto\bin\Debug\net6.0\Meu projeto.deps.json
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Desafios de projeto\Desafio-02\Meu projeto\bin\Debug\net6.0\Meu projeto.runtimeconfig.json
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Desafios de projeto\Desafio-02\Meu projeto\bin\Debug\net6.0\Meu projeto.dll
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Desafios de projeto\Desafio-02\Meu projeto\bin\Debug\net6.0\Meu projeto.pdb
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Desafios de projeto\Desafio-02\Meu projeto\obj\Debug\net6.0\Meu projeto.csproj.AssemblyReference.cache
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Desafios de projeto\Desafio-02\Meu projeto\obj\Debug\net6.0\Meu projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Desafios de projeto\Desafio-02\Meu projeto\obj\Debug\net6.0\Meu projeto.AssemblyInfoInputs.cache
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Desafios de projeto\Desafio-02\Meu projeto\obj\Debug\net6.0\Meu projeto.AssemblyInfo.cs
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Desafios de projeto\Desafio-02\Meu projeto\obj\Debug\net6.0\Meu projeto.csproj.CoreCompileInputs.cache
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Desafios de projeto\Desafio-02\Meu projeto\obj\Debug\net6.0\Meu projeto.dll
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Desafios de projeto\Desafio-02\Meu projeto\obj\Debug\net6.0\refint\Meu projeto.dll
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Desafios de projeto\Desafio-02\Meu projeto\obj\Debug\net6.0\Meu projeto.pdb
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Desafios de projeto\Desafio-02\Meu projeto\obj\Debug\net6.0\Meu projeto.genruntimeconfig.cache
+C:\Users\Murilo Cavalcanti\Documents\00 Programação\C#\Desafios de projeto\Desafio-02\Meu projeto\obj\Debug\net6.0\ref\Meu projeto.dll
